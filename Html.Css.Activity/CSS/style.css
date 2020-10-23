@@ -1,2 +1,20 @@
 #bannerimage {width: 100%; background-image: url(https://www.ropesdirect.co.uk/blog/wp-content/uploads/2018/02/battle-rope.png);
 height: 405px;}
+.hp{
+    background: #880000; color: #ffffff; font-size: 14px;}
+
+    .companyHeading{text-align: center;
+    color: #ffffff}
+
+    .hp h1, .hp h3{font-size: 30px;}
+
+.linkToAbout {background: yellow; color: black
+    ;}
+
+    .linkToAbout:hover{background: black; color: yellow}
+
+    .aboutContent{width: 50%;
+    display: inline-block;}
+
+    .apg img{width: 49%;}
+
